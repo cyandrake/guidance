@@ -1,4 +1,4 @@
-<?php
+<?php 
 session_start();
 include 'controllers/con.php';
 if (!isset($_SESSION['user']))
